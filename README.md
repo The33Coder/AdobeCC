@@ -7,3 +7,6 @@ On dec, Adobe now has a single version for Intel and ARM. The verification of th
 
 The pkg is created with Composer. For more informaions https://docs.jamf.com/composer/10.28.0/user-guide/Package_Building.html
 Packages is also a solution. http://s.sudre.free.fr/Software/documentation/Packages/en_2017/index.html
+
+
+I create a folder on /private/var/tmp/AdobeCC and the dmg is inside.
